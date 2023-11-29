@@ -1,5 +1,5 @@
-# Capstone-Project
-IBM Data Science Professional Capstone Project
+# IBM Data Science Professional Capstone Project
+
 
 This repository contains the projects/assignments for courses in the IBM Data Science Professional Certificate on Coursera. The professional certificate contains 9 courses + 1 capstone project. Here is the content of the flows:
 What is Data Science?
